@@ -1821,7 +1821,7 @@ Author URL: http://themeforest.net/user/codesymbol/
             }
             .gallery-images .images .img img {
                 width: 100%;
-                height: auto;
+                height: 185px !important;
                 display: block;
             }
             .gallery-images.style-icons .images .img .icon {
