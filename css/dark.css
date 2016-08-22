@@ -3046,6 +3046,7 @@ Author URL: http://themeforest.net/user/codesymbol/
         }
         .blog.style-2 .article img {
             margin-bottom: 20px;
+            height: 275px !important
         }
         .blog.style-2 .article h5 {
             position: relative;
